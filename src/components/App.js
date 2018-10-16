@@ -1,8 +1,6 @@
-import React, {
-  Component
-} from 'react';
+import React, { Component } from 'react';
 
-const App = () => < Counter > < /Counter>
+const App = () => <Counter> </Counter>
 
 class Counter extends Component {
   constructor(props) {
